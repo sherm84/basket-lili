@@ -1,6 +1,6 @@
 # Basket Lili
 
-[Online Link](https://basket-lili.firebaseapp.com/)
+[Online Link](https://fir-basket.firebaseapp.com/)
 
 ## Development server
 

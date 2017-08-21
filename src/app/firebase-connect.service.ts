@@ -3,12 +3,12 @@ import { Observable } from 'rxjs/Observable';
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: 'AIzaSyB9SOn3EH7HDf0DNtgYLbEub5jCwlEqi1Y',
-  authDomain: 'basket-lili.firebaseapp.com',
-  databaseURL: 'https://basket-lili.firebaseio.com',
-  projectId: 'basket-lili',
-  storageBucket: 'basket-lili.appspot.com',
-  messagingSenderId: '712621219605'
+  apiKey: 'AIzaSyB-_zxRgy4LmTTKzMOTcq2nVTWtE2L-WZM',
+  authDomain: 'fir-basket.firebaseapp.com',
+  databaseURL: 'https://fir-basket.firebaseio.com',
+  projectId: 'fir-basket',
+  storageBucket: 'fir-basket.appspot.com',
+  messagingSenderId: '177058333042'
 };
 
 @Injectable()
